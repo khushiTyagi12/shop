@@ -18,7 +18,7 @@ export default class Otp extends React.Component {
                  </Text>
              </View>
              <View style={{width:width,marginTop:30}}>
-                <TextInput placeholder="Enter OTP"
+                <TextInput placeholder="Please Enter The OTP"
                          style={{
                              height: 60,
                              //width:300,
